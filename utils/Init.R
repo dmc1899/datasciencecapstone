@@ -1,3 +1,4 @@
+library("data.table")
 source("utils/Constant.R")
 
 setJavaHeapSizeGB  <- function(heapSize){

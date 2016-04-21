@@ -1,5 +1,6 @@
 library("shiny")
 library("UsingR")
+library("data.table")
 
 initialiseApp  <- function(){
     source("utils/Prediction.R")
