@@ -9,13 +9,13 @@ Introduction
 ###### This slide deck describes the Word Prediction data product built as part of the SwiftKey Data Science Capstone within the Johns Hopkins Data Science Specialisation.  
 
 ### Purpose
-###### The purpose of the data product, or app, is to take a sequence of words and predict the next word to expedite the process of completing a sentence for the end user.
+###### The purpose of the data product (app) is to take a sequence of words and predict the next word to expedite the process of completing a sentence for the end user.
 
-###### This deck will explain the following:
+###### This deck will explain the process of fitting the model, making predictions and using the app.
 
-###### - Fitting the model
-###### - Making predictions
-###### - Using the app
+### Links
+- Source available from [https://github.com/dmc1899/datasciencecapstone](https://github.com/dmc1899/datasciencecapstone)
+- Data Product available from [https://darraghmcconville.shinyapps.io/SwiftKeyCapstone/] (https://darraghmcconville.shinyapps.io/SwiftKeyCapstone/)
 
 Fitting the Model
 ========================================================
